@@ -1,0 +1,8 @@
+export { default as png1 } from './1.jpeg'
+export { default as png2 } from './2.jpeg'
+export { default as png3 } from './3.jpeg'
+export { default as png4 } from './4.jpeg'
+export { default as png5 } from './5.jpeg'
+export { default as png6 } from './6.jpeg'
+export { default as png7 } from './7.jpeg'
+export { default as png8 } from './8.jpeg'
